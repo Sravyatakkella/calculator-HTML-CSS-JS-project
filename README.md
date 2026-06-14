@@ -24,7 +24,6 @@ calculator-app/
 └── README.md       # Project documentation
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/calculator-app.git
 2. Navigate to the project folder
 cd calculator-app
 3. Open the project
